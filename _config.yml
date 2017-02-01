@@ -69,5 +69,5 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:github
-  repository: https://github.com/saligialucifer/hexo.git
+  repo: https://github.com/saligialucifer/hexo.git
   branch: master
